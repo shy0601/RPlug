@@ -1,6 +1,6 @@
 {
   "LatestVersion": "1.1.0",
-  "DownloadUrl": "https://github.com/你的用户名/你的仓库/releases/download/v1.1.0/PluginUpdate.zip",
+  "DownloadUrl": "https://github.com/shy0601/RPlug/releases/download/RevitPlug/s.zip",
   "ReleaseNotes": "1. 修复了XXbug\n2. 新增YY功能",
   "IsMandatory": false
 }
