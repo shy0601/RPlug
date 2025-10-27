@@ -1,6 +1,7 @@
 {
-  "LatestVersion": "1.1.0",
-  "DownloadUrl": "https://github.com/shy0601/RPlug/releases/download/RevitPlug/s.zip",
-  "ReleaseNotes": "1. 修复了XXbug\n2. 新增YY功能",
-  "IsMandatory": false
+  "tag_name": "v1.1.0",
+  "assets": [
+    { "browser_download_url": "https://github.com/.../MyPlugin_v1.1.0.zip" }
+  ]
 }
+```*
